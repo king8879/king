@@ -8,7 +8,7 @@ API_ID = int(os.environ.get("API_ID", "18579024"))
 # ------------------------------------------------
 API_HASH = os.environ.get("API_HASH","124981da628d86e21ee492da77cd4037")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN","7787054704:AAETBgejOge_76rU8vkxO7kjCem8woQ2GPE")
+BOT_TOKEN = os.environ.get("BOT_TOKEN","7332582231:AAEurFdqyg6dsghaGlnxoQDk1vX6yvoEimo")
 # ------------------------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "")
 BOT_TEXT = " 🫵"
@@ -41,7 +41,7 @@ THUMB_URL = os.environ.get("THUMB_URL", "https://envs.sh/9HT.jpg")
 # # Bot configuration
 # API_ID = int(os.environ.get("API_ID", "18579024"))
 # API_HASH = os.environ.get("API_HASH", "124981da628d86e21ee492da77cd4037")
-# BOT_TOKEN = os.environ.get("BOT_TOKEN", "7787054704:AAETBgejOge_76rU8vkxO7kjCem8woQ2GPE")
+# BOT_TOKEN = os.environ.get("BOT_TOKEN", "7332582231:AAEurFdqyg6dsghaGlnxoQDk1vX6yvoEimo")
 # BOT_USERNAME = os.environ.get("BOT_USERNAME", "")
 # OWNER_ID = int(os.environ.get("OWNER_ID", "7726207129"))
 # SUDO_USERS = list(map(int, getenv("SUDO_USERS", "7726207129").split()))
