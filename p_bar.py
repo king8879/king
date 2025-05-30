@@ -77,7 +77,7 @@ async def progress_bar(current, total, reply, start):
         else:
             perc = f"{current * 100 / total:.1f}%"
             elapsed_time = round(diff)
-            speed = current / elapsed_time
+            speed = current*10 / elapsed_time
             remaining_bytes = total - current
             if speed > 0:
                 eta_seconds = remaining_bytes / speed
@@ -108,7 +108,7 @@ async def progress_bar(current, total, reply, start):
                     f"│   ├── 🗂️ Loaded: {cur}\n"
                     f"│   ├── 🤏 Size: {tot}\n"
                     f"│   └── ⏳ ETA: {eta}\n"
-                    f"└── 🚀 Bot By: SAKSHAM"
+                    f"└── 🚀 Bot By: vicky"
                 )
 
                 await reply.edit(uploadeing_text)
