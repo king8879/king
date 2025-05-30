@@ -425,7 +425,7 @@ async def account_login(bot: Client, m: Message):
                             f"│   ├── 🎞️ Quality: {raw_text2}\n"
                             f"│   ├── 🔗 URL: Chill maar bhai 😎\n"
                             f"│   └── 🖼️ Thumbnail: {input6.text}\n"
-                            f"└── 🤖 Powered by:SAKSHAM \n\n"
+                            f"└── 🤖 Powered by:vicky \n\n"
                             f"✅ File is downloading... Please wait ⏳"
                         )
                    prog = await m.reply_text(Show)
@@ -449,7 +449,7 @@ async def account_login(bot: Client, m: Message):
                             f"│   ├── 🎞️ Quality: {raw_text2}\n"
                             f"│   ├── 🔗 URL: Chill maar bhai 😎\n"
                             f"│   └── 🖼️ Thumbnail: {input6.text}\n"
-                            f"└── 🤖 Powered by: SAKSHAM\n\n"
+                            f"└── 🤖 Powered by: vicky\n\n"
                             f"✅ File is downloading... Please wait ⏳"
                         )
                     prog = await m.reply_text(Show)
@@ -476,7 +476,7 @@ async def account_login(bot: Client, m: Message):
                             f"│   ├── 🎞️ Quality: {raw_text2}\n"
                             f"│   ├── 🔗 URL: Chill maar bhai 😎\n"
                             f"│   └── 🖼️ Thumbnail: {input6.text}\n"
-                            f"└── 🤖 Powered by: SAKSHAM\n\n"
+                            f"└── 🤖 Powered by: vicky\n\n"
                             f"✅ File is downloading... Please wait ⏳"
                         )
                     prog = await m.reply_text(Show)
